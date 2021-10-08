@@ -1,5 +1,5 @@
-# CSUSB-Veins-Simulation
-CSUSB Veins Simulation
+# Veins-CSUSB-Simulation
+Veins CSUSB  Simulation
 
 These are the files that were generated for use in Veins. OpenStreetMap was used along with GatcomSUMO V1.04 to generate files. These files will need to be imported to Veins and a few changes made to the code in order to run this.
 
